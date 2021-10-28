@@ -21,3 +21,6 @@ input[type='submit']:hover {
   color: purple !important;
   font-weight: bold !important;
 }
+::placeholder {
+  color: purple;
+}
